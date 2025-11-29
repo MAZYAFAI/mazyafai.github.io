@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: Mohammed Noman
+title: Maz Yafai
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -15,8 +15,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Mohammed Noman
-  description: "Hi noman here"
+  title: Maz Yafai
+  description: "Hi Maz here"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -53,14 +53,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Noman's Portfolio"
+    text: "Maz's Portfolio"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Noman's Portfolio
+    title: Maz's Portfolio
     subtitle: "Research Assistant @ University of East London | Seeking Graduate Roles in Data Engineering/Analytics | Big Data expert with Hadoop and Spark skills."
     imageUrl: "/1photo.jpg"
     imageWidth: 120
@@ -81,11 +81,11 @@ params:
   socialIcons:
     
     - name: linkedin
-      url: "https://linkedin.com/in/furkhan67"
+      url: "www.linkedin.com/in/maz-yafai"
     - name: github
-      url: "https://github.com/furkhan67"
+      url: "https://github.com/MAZYAFAI"
     - name: x
-      url: "https://x.com/furkhan67"
+      url: ""
 
   analytics:
     google:
