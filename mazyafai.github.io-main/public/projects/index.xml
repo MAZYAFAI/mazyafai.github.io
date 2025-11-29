@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Mohammed Noman</title>
+    <link>https://examplesite.com/projects/</link>
+    <description>Recent content in Projects on Mohammed Noman</description>
+    <image>
+      <title>Mohammed Noman</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatic Beat Rate Detection in cardiomyocytes using Computer Vision</title>
+      <link>https://examplesite.com/projects/project1/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project1/</guid>
+      <description>Proposed innovative system for automatic beat rate detection in human heart cells using image processing and machine learning.Validated the system on a dataset of 96 Gigabyte video clips Currently working to publish this research.</description>
+    </item>
+    <item>
+      <title>Intrusion Detection using Pyspark</title>
+      <link>https://examplesite.com/projects/project2/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project2/</guid>
+      <description>Used dataset to build ML models in PySpark to detect if the incoming traffic is a threat, and also classify it’s type. Complete ML procedure was followed such as Data Pre-Processing, Dealing with Data Imbalance, Feature Selection, Performance Measurement etc.</description>
+    </item>
+    <item>
+      <title>Personality Prediction using NLP</title>
+      <link>https://examplesite.com/projects/project3/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project3/</guid>
+      <description>Built a Web-app using flask which predicts personality of a person from text using NLP. On this project, I learned a lot about python, NLTK, Spacy, Flask.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Experiences on Mohammed Noman</title>
+    <link>https://examplesite.com/experience/</link>
+    <description>Recent content in Experiences on Mohammed Noman</description>
+    <image>
+      <title>Mohammed Noman</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Assistant @ University of East London</title>
+      <link>https://examplesite.com/experience/1/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/1/</guid>
+      <description> Conducted analysis on video clips containing cardiomyocytes to detect beat rate and other parameters. Developed predictive models for Network Intrusion detection system using Python and Spark. Implemented Power BI dashboard for academic departments, enhancing efficiency by 15% </description>
+    </item>
+    <item>
+      <title>Software Developer @ Hudas Technologies</title>
+      <link>https://examplesite.com/experience/2/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/2/</guid>
+      <description> Developed a CRM primarily in React and Python Django. Improved customer experience by 30%(over 10000 customers) by implementing the CRM. All code was reviewed, perfected, and pushed to production </description>
+    </item>
+    <item>
+      <title>Software Developer @ PES College</title>
+      <link>https://examplesite.com/experience/3/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/3/</guid>
+      <description> Developed a CRM primarily in React and Python Django. Improved customer experience by 30%(over 10000 customers) by implementing the CRM. All code was reviewed, perfected, and pushed to production </description>
+    </item>
+  </channel>
+</rss>
