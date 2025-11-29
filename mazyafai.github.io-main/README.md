@@ -1,2 +1,2 @@
-# furkhan67.github.io
+# mazyafai.github.io
 Portfolio using github pages
