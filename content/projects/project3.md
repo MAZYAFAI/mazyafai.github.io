@@ -1,7 +1,12 @@
 +++
-title = 'Personality Prediction using NLP'
-date = 2021-02-15
-PublishDate = 2021-06-15
+title = 'Cloud Implementation'
+date = 2022-08-20
+PublishDate = 2023-06-15
 draft = true
 +++
-Built a Web-app using flask which predicts personality of a person from text using NLP. On this project, I learned a lot about python, NLTK, Spacy, Flask.
+* Deploying Applications and database on AWS Cloud for a new project. Day-to-day project planning, implementation, and co-ordination, DevOps CICD pipeline creation and
+implementation on AWS Cloud.
+* Myntra Partner Portal, Working with development team to deploy and manage the partner app of Myntra over
+Hybrid Environment.
+* Delivering multiple workshops and trainings for clients to elevate technical skills of
+employees on Cloud and DevOps technologies.

@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on Mohammed Noman</title>
+    <title>Projects on Maz Yafai</title>
     <link>https://examplesite.com/projects/</link>
-    <description>Recent content in Projects on Mohammed Noman</description>
+    <description>Recent content in Projects on Maz Yafai</description>
     <image>
-      <title>Mohammed Noman</title>
+      <title>Maz Yafai</title>
       <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://examplesite.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodal Alzheimer Detection using LLM</title>
+      <link>https://examplesite.com/projects/project4/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project4/</guid>
+      <description>Developed an advanced multimodal deep learning model to classify Alzheimer’s disease by integrating handwriting data, MRI scans, and clinical records. The project utilized Big Data frameworks for efficient data preprocessing and management, ensuring scalability for large datasets. Explainable AI (XAI) techniques, including LIME, were employed to enhance model interpretability and build trust in clinical predictions. Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) were leveraged to generate detailed clinical reports from structured data, streamlining insights for healthcare professionals.</description>
+    </item>
     <item>
       <title>Automatic Beat Rate Detection in cardiomyocytes using Computer Vision</title>
       <link>https://examplesite.com/projects/project1/</link>

@@ -11,6 +11,12 @@
     <loc>https://examplesite.com/education/phd/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/projects/project4/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/projects/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://examplesite.com/certifications/</loc>
     <lastmod>2023-03-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,9 +27,6 @@
     <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/projects/project1/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/projects/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/experience/</loc>
