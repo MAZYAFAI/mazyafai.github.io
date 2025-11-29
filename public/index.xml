@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maz Yafai</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Maz Yafai</description>
+    <image>
+      <title>Maz Yafai</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD in Artificial Intelligence</title>
+      <link>https://examplesite.com/education/phd/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/phd/</guid>
+      <description>In collaboration with Newham Council and University of East London, my research focuses on developing a robust framework for Compound Flood Risk Modelling using AI, addressing the increasing complexity of flood events driven by climate change. The study integrates diverse datasets, including meteorological, hydrological, and geospatial data, to analyze the interplay between coastal, fluvial, and pluvial flooding. Advanced machine learning and statistical modelling techniques are employed to quantify risk under various scenarios, enabling more accurate predictions of compound flood events.</description>
+    </item>
+    <item>
+      <title>Multimodal Alzheimer Detection using LLM</title>
+      <link>https://examplesite.com/projects/project4/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project4/</guid>
+      <description>Developed an advanced multimodal deep learning model to classify Alzheimer’s disease by integrating handwriting data, MRI scans, and clinical records. The project utilized Big Data frameworks for efficient data preprocessing and management, ensuring scalability for large datasets. Explainable AI (XAI) techniques, including LIME, were employed to enhance model interpretability and build trust in clinical predictions. Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) were leveraged to generate detailed clinical reports from structured data, streamlining insights for healthcare professionals.</description>
+    </item>
+    <item>
+      <title>Microsoft Azure Data Fundamentals</title>
+      <link>https://examplesite.com/certifications/certification3/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/certifications/certification3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft Azure Cloud Fundamentals</title>
+      <link>https://examplesite.com/certifications/certification2/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/certifications/certification2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automatic Beat Rate Detection in cardiomyocytes using Computer Vision</title>
+      <link>https://examplesite.com/projects/project1/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project1/</guid>
+      <description>Proposed innovative system for automatic beat rate detection in human heart cells using image processing and machine learning.Validated the system on a dataset of 96 Gigabyte video clips Currently working to publish this research.</description>
+    </item>
+    <item>
+      <title>Researcher and Lecturer @ University of East London</title>
+      <link>https://examplesite.com/experience/1/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/1/</guid>
+      <description>Conduct research on cutting-edge topics in Artificial Intelligence and Big Data Technologies, focusing on areas such as compound flood risk modeling and multimodal models for Alzheimer&amp;rsquo;s classification. Develop and deliver lectures for Big Data Technologies courses, covering advanced concepts in Spark, Hadoop, Azure, and data engineering techniques for undergraduate and postgraduate students. Collaborate with senior faculty to design and implement comprehensive curricula for courses including MERN stack development, Hadoop administration, Spark ML, and HiveQL, tailored for Level 5 and Level 7 students.</description>
+    </item>
+    <item>
+      <title>AWS Academy</title>
+      <link>https://examplesite.com/certifications/certification1/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/certifications/certification1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MSc Big Data Technologies</title>
+      <link>https://examplesite.com/education/msc/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/msc/</guid>
+      <description>Achieved Distinction in Masters of Science: Big Data Technologies from University of East London.
+Relevant Modules: ML using PySpark, Cloud Computing, Big Data using Hadoop &amp;amp; Spark, Information Security.</description>
+    </item>
+    <item>
+      <title>Intrusion Detection using Pyspark</title>
+      <link>https://examplesite.com/projects/project2/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project2/</guid>
+      <description>Used dataset to build ML models in PySpark to detect if the incoming traffic is a threat, and also classify it’s type. Complete ML procedure was followed such as Data Pre-Processing, Dealing with Data Imbalance, Feature Selection, Performance Measurement etc.</description>
+    </item>
+    <item>
+      <title>Personality Prediction using NLP</title>
+      <link>https://examplesite.com/projects/project3/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/projects/project3/</guid>
+      <description>Built a Web-app using flask which predicts personality of a person from text using NLP. On this project, I learned a lot about python, NLTK, Spacy, Flask.</description>
+    </item>
+    <item>
+      <title>Software Developer @ Hudas Technologies</title>
+      <link>https://examplesite.com/experience/2/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/2/</guid>
+      <description> Developed a CRM primarily in React and Python Django. Improved customer experience by 30%(over 10000 customers) by implementing the CRM. All code was reviewed, perfected, and pushed to production </description>
+    </item>
+    <item>
+      <title>Software Developer @ PES College</title>
+      <link>https://examplesite.com/experience/3/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/experience/3/</guid>
+      <description> Developed a CRM primarily in React and Python Django. Improved customer experience by 30%(over 10000 customers) by implementing the CRM. All code was reviewed, perfected, and pushed to production </description>
+    </item>
+    <item>
+      <title>Bachelors in Computer Science Engineering</title>
+      <link>https://examplesite.com/education/bsc/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/bsc/</guid>
+      <description>Achieved Distinction in Bachelor of Technology: Computer Science Engineering from Dr Babasaheb Ambedkar Technological University, India.
+Relevant Modules: Python, R, Machine Learning, Deep Learning, Mathematics, Data Structures, IT Laws.</description>
+    </item>
+  </channel>
+</rss>

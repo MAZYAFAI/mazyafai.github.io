@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Educations on Maz Yafai</title>
+    <link>https://examplesite.com/education/</link>
+    <description>Recent content in Educations on Maz Yafai</description>
+    <image>
+      <title>Maz Yafai</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD in Artificial Intelligence</title>
+      <link>https://examplesite.com/education/phd/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/phd/</guid>
+      <description>In collaboration with Newham Council and University of East London, my research focuses on developing a robust framework for Compound Flood Risk Modelling using AI, addressing the increasing complexity of flood events driven by climate change. The study integrates diverse datasets, including meteorological, hydrological, and geospatial data, to analyze the interplay between coastal, fluvial, and pluvial flooding. Advanced machine learning and statistical modelling techniques are employed to quantify risk under various scenarios, enabling more accurate predictions of compound flood events.</description>
+    </item>
+    <item>
+      <title>MSc Big Data Technologies</title>
+      <link>https://examplesite.com/education/msc/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/msc/</guid>
+      <description>Achieved Distinction in Masters of Science: Big Data Technologies from University of East London.
+Relevant Modules: ML using PySpark, Cloud Computing, Big Data using Hadoop &amp;amp; Spark, Information Security.</description>
+    </item>
+    <item>
+      <title>Bachelors in Computer Science Engineering</title>
+      <link>https://examplesite.com/education/bsc/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://examplesite.com/education/bsc/</guid>
+      <description>Achieved Distinction in Bachelor of Technology: Computer Science Engineering from Dr Babasaheb Ambedkar Technological University, India.
+Relevant Modules: Python, R, Machine Learning, Deep Learning, Mathematics, Data Structures, IT Laws.</description>
+    </item>
+  </channel>
+</rss>
