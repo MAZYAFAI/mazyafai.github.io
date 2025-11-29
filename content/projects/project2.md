@@ -1,7 +1,7 @@
 +++
 title = 'Finance IT & Investment'
 date = 2022-05-15
-PublishDate = 2022-08-3
+PublishDate = 2022-08-03
 draft = true
 +++
 This DevOps project is based on a real time DevOps project implemented in Finance IT &
