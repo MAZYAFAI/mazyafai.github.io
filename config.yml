@@ -81,7 +81,7 @@ params:
   socialIcons:
     
     - name: linkedin
-      url: "www.linkedin.com/in/maz-yafai"
+      url: "https://www.linkedin.com/in/maz-yafai/"
     - name: github
       url: "https://github.com/MAZYAFAI"
     - name: x
