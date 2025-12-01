@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Maz's Portfolio
-    subtitle: "Research Assistant @ University of East London | Seeking Graduate Roles in Data Engineering/Analytics | Big Data expert with Hadoop and Spark skills."
+    subtitle: “DevOps Engineer | AWS Cloud | Kubernetes · Docker · Terraform · Jenkins | DevOps & Cloud Trainer | MSc Data Science Graduate”
     imageUrl: "/1photo.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -136,7 +136,7 @@ menu:
       weight: 40
     - identifier: Email
       name: Email
-      url: mailto:m.noman@uel.ac.uk
+      url: mazyafai.abroad@gmail.com
       weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
